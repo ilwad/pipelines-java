@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/fathimohamedtest/PartsUnlimited/_apis/build/status/ilwad.pipelines-java?branchName=master)](https://dev.azure.com/fathimohamedtest/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
